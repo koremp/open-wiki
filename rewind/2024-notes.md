@@ -13,3 +13,9 @@ SNS를 줄이고 있다.
 Dotfiles랑 NeoVim을 좀 더 잘 쓰고싶은데 너무 어렵다. 공부하려고 하는데 좀 더 내가 공부하는 시간을 늘려야겠다. 일단 주말까지는 감기 회복을 우선으로.
 
 개인 프로젝트를 좀 더 활성화할 필요가 있겠다. ㅠㅠ 너무 혼자서 하려고 하면 동기부여나 지속성이 너무 어렵다.
+
+### Karabiner Error
+
+https://github.com/pqrs-org/Karabiner-Elements/issues/2027
+
+해당 이슈가 있었다
