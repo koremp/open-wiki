@@ -19,3 +19,13 @@ Dotfiles랑 NeoVim을 좀 더 잘 쓰고싶은데 너무 어렵다. 공부하려
 https://github.com/pqrs-org/Karabiner-Elements/issues/2027
 
 해당 이슈가 있었다
+
+## 20240321
+
+감기가 기관지 염증까지 가서 3일 전에 해당 약 받고 많이 나아짐.
+
+홈트 시작
+
+트레이닝 웹 사이트 만들기 시작
+
+call22nd 작업
